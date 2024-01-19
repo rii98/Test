@@ -8,5 +8,6 @@ int main(){
     printf("Enter two numbers:");
     scanf("%d%d",&x,&y);
     printf("Sum(%d,%d)=%d",x,y,sum(x,y));
+    //changes made by github
     return 0;
 }
